@@ -1,4 +1,4 @@
-# eks-project
+# aws-service-catalog-pipeline
 
 A copy of an AWS sample, **Pipeline to Service Catalog**, kept here for study. It manages AWS Service Catalog portfolios and products as code in version control and delivers changes through AWS CodePipeline, so the catalog is updated by a commit instead of by hand in the console.
 
